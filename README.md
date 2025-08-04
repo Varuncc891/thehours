@@ -6,14 +6,17 @@ The Hours is a news aggregator application that allows users to register, log in
 **Technologies Used**
 
 **Frontend**
+
 React.js, React Router, Axios. 
 
 
 **Backend (user login and registration)**
+
 Node.js, Express.js, jsonwebtoken (JWT), bcrypt.js 
 
 
 **Database (storing passwords)**
+
 MongoDB.
 
 <br>
