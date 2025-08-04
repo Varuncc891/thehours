@@ -1,7 +1,7 @@
 # The Hours
 The Hours is a news aggregator application that allows users to register, log in, and access curated news content. It employs JWT-based authentication with password hashing via bcrypt, ensuring safe credential storage and validation.
 
-
+<br>
 
 **Technologies Used**
 
@@ -16,6 +16,7 @@ Node.js, Express.js, jsonwebtoken (JWT), bcrypt.js
 **Database (storing passwords)**
 MongoDB.
 
+<br>
 
 **Features**
 
@@ -26,6 +27,9 @@ MongoDB.
 - Passwords are hashed and salted using bcrypt before storage
 
 - Persistent user sessions via token-based authorization.
+
+
+<br>
 
 
 **Installation and Setup**
